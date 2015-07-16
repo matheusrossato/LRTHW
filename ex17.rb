@@ -18,7 +18,7 @@ out_file.write(in_data)
 
 puts "Alright, all done."
 
-out_file.close
+osut_file.close
 in_file.close
 
 
